@@ -23,12 +23,12 @@ for(var i = 99; i >= 1; i--)
 
 
 
-var booL = [true, true, false, true, false, true, true, true];
-for (i = 0; i < booL.length; i++)
+var bools = [true, true, false, true, false, true, true, true];
+for (i = 0; i < bools.length; i++)
 {
-    if (booL[i] === true)
+    if (bools[i] === true)
     {
-    console.log(booL[i]);
+    console.log(bools[i]);
     }
 }
 
