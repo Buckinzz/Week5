@@ -6,7 +6,7 @@ for(var i = 1; i <= 10; i++)
 
 
 while(true){
-    console.log(true);
+    console.log(`BEER SONG BAAABY!`);
     break;
 }
 
